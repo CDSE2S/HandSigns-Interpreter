@@ -27,4 +27,6 @@ numpy
 
 scikit-learn
 
+matplotlib
+
 
